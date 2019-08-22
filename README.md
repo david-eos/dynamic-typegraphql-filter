@@ -1,4 +1,4 @@
-# Dynamic GraphQL resolvers
+# Dynamic GraphQL resolvers & filters
 
 Steps to run this project:
 

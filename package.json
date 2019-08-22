@@ -1,5 +1,5 @@
 {
-   "name": "dynamic-type-graphql",
+   "name": "dynamic-type-graphql-filter",
    "version": "0.0.1",
    "description": "Awesome project developed with TypeORM.",
    "devDependencies": {
